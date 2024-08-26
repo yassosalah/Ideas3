@@ -1,5 +1,5 @@
 ---
-title: 'APP جمله'
+title: 'App جمله'
 description: 'Gumla App'
 pubDate: 'Jun 19 2024'
 heroImage: '/GMLAAPP.jpg'
